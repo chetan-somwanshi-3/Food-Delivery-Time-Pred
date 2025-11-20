@@ -14,3 +14,11 @@ scikit-learn
 tqdm
 typer
 -e .
+seaborn
+jupyter
+dvc
+mlflow
+fastapi
+uvicorn
+pytest
+shap
